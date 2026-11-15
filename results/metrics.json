@@ -1,0 +1,530 @@
+{
+  "facts": {
+    "n_races": 1169,
+    "n_seasons": 77,
+    "last_race": {
+      "year": "2026",
+      "round": "20",
+      "name": "Brazilian Grand Prix",
+      "date": "2026-11-08"
+    },
+    "pole_win_rate_by_decade": {
+      "1950": 0.402,
+      "1960": 0.37,
+      "1970": 0.368,
+      "1980": 0.282,
+      "1990": 0.426,
+      "2000": 0.5,
+      "2010": 0.505,
+      "2020": 0.57
+    },
+    "p_podium_by_grid_2010plus": {
+      "1": 0.805,
+      "2": 0.695,
+      "3": 0.504,
+      "4": 0.367,
+      "5": 0.202,
+      "6": 0.126,
+      "7": 0.081,
+      "8": 0.029,
+      "9": 0.037,
+      "10": 0.038,
+      "11": 0.02,
+      "12": 0.014
+    },
+    "furthest_back_winners": [
+      {
+        "year": "1983",
+        "name": "United States Grand Prix West",
+        "grid": "22",
+        "forename": "John",
+        "surname": "Watson"
+      },
+      {
+        "year": "1954",
+        "name": "Indianapolis 500",
+        "grid": "19",
+        "forename": "Bill",
+        "surname": "Vukovich"
+      },
+      {
+        "year": "2026",
+        "name": "Italian Grand Prix",
+        "grid": "19",
+        "forename": "Andrea Kimi",
+        "surname": "Antonelli"
+      },
+      {
+        "year": "2000",
+        "name": "German Grand Prix",
+        "grid": "18",
+        "forename": "Rubens",
+        "surname": "Barrichello"
+      },
+      {
+        "year": "2005",
+        "name": "Japanese Grand Prix",
+        "grid": "17",
+        "forename": "Kimi",
+        "surname": "R\u00e4ikk\u00f6nen"
+      }
+    ],
+    "dnf_rate": {
+      "1960": 0.476,
+      "1980": 0.512,
+      "2000": 0.413,
+      "2010": 0.259,
+      "2019": 0.141,
+      "2024": 0.107,
+      "2025": 0.12,
+      "2026": 0.185
+    },
+    "dnf_lowest_year_since_2000": 2024,
+    "dnf_lowest_value": 0.107,
+    "pit_median_sec": {
+      "2011": 22.37,
+      "2012": 22.26,
+      "2013": 22.87,
+      "2014": 24.22,
+      "2015": 24.25,
+      "2016": 23.82,
+      "2017": 23.58,
+      "2018": 23.65,
+      "2019": 23.52,
+      "2020": 24.17,
+      "2021": 23.65,
+      "2022": 23.69,
+      "2023": 23.67,
+      "2024": 23.29,
+      "2025": 23.12,
+      "2026": 24.09
+    },
+    "pit_stops_used": 12418,
+    "circuit_pole_win": [
+      {
+        "circuit": "Silverstone Circuit",
+        "races": 28,
+        "pole_win": 0.321
+      },
+      {
+        "circuit": "Hungaroring",
+        "races": 27,
+        "pole_win": 0.407
+      },
+      {
+        "circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+        "races": 26,
+        "pole_win": 0.462
+      },
+      {
+        "circuit": "Albert Park Grand Prix Circuit",
+        "races": 25,
+        "pole_win": 0.48
+      },
+      {
+        "circuit": "Circuit de Spa-Francorchamps",
+        "races": 25,
+        "pole_win": 0.48
+      },
+      {
+        "circuit": "Bahrain International Circuit",
+        "races": 22,
+        "pole_win": 0.5
+      },
+      {
+        "circuit": "Circuit Gilles Villeneuve",
+        "races": 24,
+        "pole_win": 0.5
+      },
+      {
+        "circuit": "Sepang International Circuit",
+        "races": 19,
+        "pole_win": 0.526
+      },
+      {
+        "circuit": "Red Bull Ring",
+        "races": 19,
+        "pole_win": 0.579
+      },
+      {
+        "circuit": "Autodromo Nazionale di Monza",
+        "races": 27,
+        "pole_win": 0.593
+      },
+      {
+        "circuit": "Circuit de Monaco",
+        "races": 26,
+        "pole_win": 0.615
+      },
+      {
+        "circuit": "Shanghai International Circuit",
+        "races": 19,
+        "pole_win": 0.632
+      },
+      {
+        "circuit": "Suzuka Circuit",
+        "races": 23,
+        "pole_win": 0.696
+      },
+      {
+        "circuit": "Circuit de Barcelona-Catalunya",
+        "races": 27,
+        "pole_win": 0.704
+      },
+      {
+        "circuit": "Marina Bay Street Circuit",
+        "races": 17,
+        "pole_win": 0.706
+      },
+      {
+        "circuit": "Yas Marina Circuit",
+        "races": 17,
+        "pole_win": 0.706
+      }
+    ],
+    "most_dominant_seasons": [
+      {
+        "year": 2023,
+        "name": "Red Bull",
+        "w": 21,
+        "share": 0.955
+      },
+      {
+        "year": 1988,
+        "name": "McLaren",
+        "w": 15,
+        "share": 0.938
+      },
+      {
+        "year": 2016,
+        "name": "Mercedes",
+        "w": 19,
+        "share": 0.905
+      },
+      {
+        "year": 2002,
+        "name": "Ferrari",
+        "w": 15,
+        "share": 0.882
+      },
+      {
+        "year": 1952,
+        "name": "Ferrari",
+        "w": 7,
+        "share": 0.875
+      }
+    ],
+    "standings_2026_latest": [
+      {
+        "surname": "Antonelli",
+        "points": 390.0,
+        "wins": 9
+      },
+      {
+        "surname": "Verstappen",
+        "points": 279.0,
+        "wins": 3
+      },
+      {
+        "surname": "Russell",
+        "points": 262.0,
+        "wins": 3
+      },
+      {
+        "surname": "Hamilton",
+        "points": 261.0,
+        "wins": 1
+      },
+      {
+        "surname": "Leclerc",
+        "points": 249.0,
+        "wins": 1
+      }
+    ],
+    "winners_2026": {
+      "Antonelli": 9,
+      "Russell": 3,
+      "Norris": 3,
+      "Verstappen": 3,
+      "Hamilton": 1,
+      "Leclerc": 1
+    },
+    "model_rows": 8797,
+    "dev_races": 329,
+    "test_races": 90,
+    "test_logloss_improvement": 0.1399,
+    "shap_top": {
+      "grid_pos": 0.4626,
+      "quali_pos": 0.3995,
+      "quali_gap_pct": 0.3735,
+      "team_best_finish_5": 0.2974,
+      "team_best_grid_5": 0.249,
+      "team_podium_rate_10": 0.1513,
+      "drv_podium_rate_10": 0.1475,
+      "drv_pts_share_of_leader": 0.1137
+    },
+    "surprise_podiums": 32,
+    "surprise_model_higher_share": 0.844,
+    "case_monza_2026": [
+      {
+        "surname": "Russell",
+        "team": "Mercedes",
+        "grid_pos": 2,
+        "positionOrder": 2,
+        "p_model": 0.746,
+        "p_grid_baseline": 0.602
+      },
+      {
+        "surname": "Leclerc",
+        "team": "Ferrari",
+        "grid_pos": 3,
+        "positionOrder": 22,
+        "p_model": 0.524,
+        "p_grid_baseline": 0.488
+      },
+      {
+        "surname": "Hamilton",
+        "team": "Ferrari",
+        "grid_pos": 4,
+        "positionOrder": 6,
+        "p_model": 0.495,
+        "p_grid_baseline": 0.375
+      },
+      {
+        "surname": "Gasly",
+        "team": "Alpine F1 Team",
+        "grid_pos": 1,
+        "positionOrder": 7,
+        "p_model": 0.293,
+        "p_grid_baseline": 0.706
+      },
+      {
+        "surname": "Piastri",
+        "team": "McLaren",
+        "grid_pos": 6,
+        "positionOrder": 5,
+        "p_model": 0.29,
+        "p_grid_baseline": 0.192
+      },
+      {
+        "surname": "Verstappen",
+        "team": "Red Bull",
+        "grid_pos": 5,
+        "positionOrder": 3,
+        "p_model": 0.265,
+        "p_grid_baseline": 0.274
+      }
+    ],
+    "case_antonelli": {
+      "grid": 19,
+      "p_model": 0.2406,
+      "p_grid_baseline": 0.0006
+    }
+  },
+  "cv_table": [
+    {
+      "model": "Grid-only logistic (baseline)",
+      "roc_auc": 0.918,
+      "pr_auc": 0.6589,
+      "log_loss": 0.2454,
+      "brier": 0.0718,
+      "podium_hits_per_race": 2.088,
+      "winner_hit_rate": 0.48
+    },
+    {
+      "model": "Logistic regression",
+      "roc_auc": 0.9389,
+      "pr_auc": 0.7095,
+      "log_loss": 0.2114,
+      "brier": 0.0662,
+      "podium_hits_per_race": 2.0308,
+      "winner_hit_rate": 0.4986
+    },
+    {
+      "model": "Random forest",
+      "roc_auc": 0.9393,
+      "pr_auc": 0.7019,
+      "log_loss": 0.212,
+      "brier": 0.0657,
+      "podium_hits_per_race": 2.1079,
+      "winner_hit_rate": 0.4674
+    },
+    {
+      "model": "XGBoost",
+      "roc_auc": 0.9371,
+      "pr_auc": 0.6839,
+      "log_loss": 0.2198,
+      "brier": 0.0689,
+      "podium_hits_per_race": 2.0472,
+      "winner_hit_rate": 0.3993
+    },
+    {
+      "model": "LightGBM",
+      "roc_auc": 0.9378,
+      "pr_auc": 0.6926,
+      "log_loss": 0.2201,
+      "brier": 0.0682,
+      "podium_hits_per_race": 2.0445,
+      "winner_hit_rate": 0.4275
+    },
+    {
+      "model": "Rule: top-3 on the grid",
+      "roc_auc": NaN,
+      "pr_auc": NaN,
+      "log_loss": NaN,
+      "brier": NaN,
+      "podium_hits_per_race": 2.088,
+      "winner_hit_rate": 0.48
+    },
+    {
+      "model": "LightGBM (Optuna-tuned)",
+      "roc_auc": 0.9417,
+      "pr_auc": 0.7173,
+      "log_loss": 0.2082,
+      "brier": 0.0649,
+      "podium_hits_per_race": 2.0867,
+      "winner_hit_rate": 0.4751
+    }
+  ],
+  "cv_folds_tuned": [
+    {
+      "year": 2018,
+      "roc_auc": 0.9468,
+      "pr_auc": 0.6741,
+      "log_loss": 0.2023,
+      "brier": 0.0666,
+      "podium_hits_per_race": 2.0476,
+      "winner_hit_rate": 0.5238
+    },
+    {
+      "year": 2019,
+      "roc_auc": 0.9484,
+      "pr_auc": 0.7774,
+      "log_loss": 0.1898,
+      "brier": 0.0565,
+      "podium_hits_per_race": 2.1905,
+      "winner_hit_rate": 0.381
+    },
+    {
+      "year": 2020,
+      "roc_auc": 0.9259,
+      "pr_auc": 0.7002,
+      "log_loss": 0.2298,
+      "brier": 0.0686,
+      "podium_hits_per_race": 2.0588,
+      "winner_hit_rate": 0.4706
+    },
+    {
+      "year": 2021,
+      "roc_auc": 0.9425,
+      "pr_auc": 0.7708,
+      "log_loss": 0.2099,
+      "brier": 0.0637,
+      "podium_hits_per_race": 2.1364,
+      "winner_hit_rate": 0.6364
+    },
+    {
+      "year": 2022,
+      "roc_auc": 0.9451,
+      "pr_auc": 0.6639,
+      "log_loss": 0.2093,
+      "brier": 0.0693,
+      "podium_hits_per_race": 2.0,
+      "winner_hit_rate": 0.3636
+    }
+  ],
+  "best_params": {
+    "n_estimators": 750,
+    "learning_rate": 0.006629057093524586,
+    "num_leaves": 4,
+    "min_child_samples": 129,
+    "reg_lambda": 0.004805407603232507,
+    "colsample_bytree": 0.44175186128534244,
+    "subsample": 0.842154940467273
+  },
+  "test": {
+    "model": {
+      "roc_auc": 0.942665518972814,
+      "pr_auc": 0.7359052748161876,
+      "log_loss": 0.2088782149210961,
+      "brier": 0.0646980763040057,
+      "podium_hits_per_race": 2.022222222222222,
+      "winner_hit_rate": 0.6777777777777778
+    },
+    "grid_only_baseline": {
+      "roc_auc": 0.9186308968749252,
+      "pr_auc": 0.6807661513494745,
+      "log_loss": 0.24285003448983808,
+      "brier": 0.0692325362486408,
+      "podium_hits_per_race": 2.011111111111111,
+      "winner_hit_rate": 0.6111111111111112
+    },
+    "rule_top3_grid": {
+      "podium_hits_per_race": 2.011111111111111,
+      "winner_hit_rate": 0.6111111111111112
+    }
+  },
+  "test_by_year": [
+    {
+      "year": 2023,
+      "races": 22,
+      "model_log_loss": 0.2203,
+      "baseline_log_loss": 0.2678,
+      "model_podium_hits": 1.9545,
+      "grid_rule_podium_hits": 1.9545
+    },
+    {
+      "year": 2024,
+      "races": 24,
+      "model_log_loss": 0.2218,
+      "baseline_log_loss": 0.2433,
+      "model_podium_hits": 2.0,
+      "grid_rule_podium_hits": 2.0
+    },
+    {
+      "year": 2025,
+      "races": 24,
+      "model_log_loss": 0.1963,
+      "baseline_log_loss": 0.2319,
+      "model_podium_hits": 2.2917,
+      "grid_rule_podium_hits": 2.25
+    },
+    {
+      "year": 2026,
+      "races": 20,
+      "model_log_loss": 0.197,
+      "baseline_log_loss": 0.2293,
+      "model_podium_hits": 1.8,
+      "grid_rule_podium_hits": 1.8
+    }
+  ],
+  "features": [
+    "grid_pos",
+    "pitlane_start",
+    "quali_pos",
+    "quali_gap_pct",
+    "reached_q3",
+    "grid_vs_teammate",
+    "n_cars",
+    "sprint_weekend",
+    "round_frac",
+    "drv_avg_finish_5",
+    "drv_podium_rate_10",
+    "drv_win_rate_10",
+    "drv_dnf_rate_10",
+    "drv_avg_grid_5",
+    "drv_gain_5",
+    "drv_experience",
+    "drv_career_podiums",
+    "team_best_finish_5",
+    "team_podium_rate_10",
+    "team_dnf_rate_10",
+    "team_best_grid_5",
+    "drv_champ_pos",
+    "drv_pts_share_of_leader",
+    "team_champ_pos",
+    "drv_circuit_avg_finish",
+    "drv_circuit_podiums",
+    "circuit_shuffle"
+  ]
+}

@@ -1,0 +1,8 @@
+Code (src/, app/, notebooks/): MIT License — Copyright (c) 2026 Hussain Ahmed.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, to deal in the
+Software without restriction, subject to including this notice. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY.
+
+Data (data/raw/) and everything derived from it (data/model_table.csv, results/, figures/, reports/, models/):
+"Formula 1 World Championship (1950 - 2026)" by Samuel_Pbq on Kaggle, built from Jolpica-F1 / Ergast,
+licensed CC BY-NC-SA 4.0 — attribution required, non-commercial use only, share-alike.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
